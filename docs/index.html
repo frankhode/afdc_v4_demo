@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Demo del Archivo Fotográfico del Diario Crónica. Buscadores, índices, sobres y colecciones con una muestra de registros reales.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' blob:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
+<title>AFDC · Demo</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/demo.css">
+<script type="module" src="assets/app.mjs"></script>
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<header class="topbar">
+ <nav aria-label="Principal"><a href="#/" class="brand">AFDC <span aria-hidden="true">▣</span></a><a href="#/buscar">Buscador simple</a><a href="#/avanzada">Avanzado</a><a href="#/indices">Índices</a><a href="#/colecciones">Colecciones</a></nav>
+ <div class="header-actions"><span class="badge">DEMO</span><label class="theme-label">Tema <select id="theme" aria-label="Tema"><option value="dark">Oscuro</option><option value="light">Claro</option><option value="vintage">Vintage</option></select></label></div>
+</header>
+<main id="main" tabindex="-1"><p class="loading">Cargando el catálogo…</p></main>
+<footer>Archivo Fotográfico del Diario Crónica · Muestra del catálogo · <a href="#/acerca">Acerca de esta demo</a></footer>
+<noscript>Activá JavaScript para consultar esta demo.</noscript>
+<div id="toast" role="status" aria-live="polite"></div>
+</body></html>

@@ -1,0 +1,11 @@
+*.sql
+*.sqlite
+*.db
+*.zip
+.env*
+config.php
+input/
+private/
+node_modules/
+__pycache__/
+.DS_Store

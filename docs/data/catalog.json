@@ -1,0 +1,3922 @@
+{
+  "meta": {
+    "sourceRepository": "frankhode/afdc_v4",
+    "sourceCommit": "2ae40e23c5dbeab82451a6228a99055783572b40",
+    "snapshotDate": "2026-07-31",
+    "schemaVersion": 1,
+    "imagesIncluded": 0
+  },
+  "records": [
+    {
+      "id": "FO040092",
+      "sys": "001577451",
+      "title": "Acher, Graciela. Cantante.",
+      "originalNumber": "A65",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Acher, Gabriela, 1944-"
+        },
+        {
+          "field": "650",
+          "term": "Actrices uruguayas"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 15,
+      "images": [
+        {
+          "id": "FO040092_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO040092_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO040092_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO040092_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO040544",
+      "sys": "001488288",
+      "title": "Antártida. Vistas",
+      "originalNumber": "A490",
+      "date": "",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "651",
+          "term": "Antártida"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 12,
+      "images": [
+        {
+          "id": "FO040544_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO040544_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO040544_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO040544_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO041080",
+      "sys": "001482382",
+      "title": "Barboza, Raúl .",
+      "originalNumber": "A1012",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Barboza, Raúl, 1938-"
+        },
+        {
+          "field": "650",
+          "term": "Músicos argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 3,
+      "images": [
+        {
+          "id": "FO041080_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO041080_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO041080_002",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO043519",
+      "sys": "001490305",
+      "title": "De la Mata, Vicente. Hijo futbolista",
+      "originalNumber": "A3383",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Mata, Vicente de la, 1918-1980"
+        },
+        {
+          "field": "600",
+          "term": "Mata, Vicente de la, 1944-"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 42,
+      "images": [
+        {
+          "id": "FO043519_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO043519_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO043519_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO043519_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO043794",
+      "sys": "001533824",
+      "title": "Diaz, Juancito. Músico (referencia, sin negativos)",
+      "originalNumber": "A3627",
+      "date": "",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 3,
+      "images": [
+        {
+          "id": "FO043794_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO043794_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO043794_002",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO044248",
+      "sys": "001526579",
+      "title": "Española, Unión. Equipo de fútbol chileno, 17/05/1971 .",
+      "originalNumber": "A4055",
+      "date": "19710517",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Unión Española (Chile)"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas chilenos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 12,
+      "images": [
+        {
+          "id": "FO044248_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044248_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044248_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044248_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO044526",
+      "sys": "001566302",
+      "title": "Onega, Ermindo. Futbolista",
+      "originalNumber": "A9600",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Onega, Ermindo, 1940-1979"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 44,
+      "images": [
+        {
+          "id": "FO044526_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044526_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044526_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044526_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO044820",
+      "sys": "001533827",
+      "title": "Folklore. Teatro Alvear, 10/07/1969 (referencia, sin negativos)",
+      "originalNumber": "A4614",
+      "date": "",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 2,
+      "images": [
+        {
+          "id": "FO044820_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044820_001",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO044899",
+      "sys": "001527827",
+      "title": "Foulliux [i.e. Fouillioux]. Futbolista, varios, 12/06/1969 .",
+      "originalNumber": "A4690",
+      "date": "19690612",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Fouillioux, Alberto, 1940-2018"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas chilenos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 3,
+      "images": [
+        {
+          "id": "FO044899_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044899_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO044899_002",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO045406",
+      "sys": "001529132",
+      "title": "Geraldi, Bettina. Poetiza, pintora, exposicion, 11/12/1969 .",
+      "originalNumber": "A5195",
+      "date": "19691211",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Geraldi, Bettina"
+        },
+        {
+          "field": "650",
+          "term": "Poetisas"
+        },
+        {
+          "field": "650",
+          "term": "Pintoras"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 20,
+      "images": [
+        {
+          "id": "FO045406_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO045406_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO045406_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO045406_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO048038",
+      "sys": "001532923",
+      "title": "Manzanero, Armando. Cantor en Alemania, 06/1969",
+      "originalNumber": "A7970",
+      "date": "19690600",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Manzanero, Armando, 1935-2020"
+        },
+        {
+          "field": "650",
+          "term": "Músicos mexicanos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 27,
+      "images": [
+        {
+          "id": "FO048038_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048038_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048038_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048038_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO048413",
+      "sys": "001532948",
+      "title": "Máscaras. Museo de, 15/02/1970.",
+      "originalNumber": "A8349",
+      "date": "19700215",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Máscaras"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 6,
+      "images": [
+        {
+          "id": "FO048413_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048413_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048413_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048413_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO048529",
+      "sys": "001533424",
+      "title": "Medici, Segundo. Ex futbolista, 07/1969 .",
+      "originalNumber": "A8468",
+      "date": "19690700",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Médici, Ángel Segundo, 1897-1971"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 4,
+      "images": [
+        {
+          "id": "FO048529_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048529_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048529_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048529_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO048629",
+      "sys": "001533462",
+      "title": "Mensajeros, Los. Folkloristas .",
+      "originalNumber": "A8569",
+      "date": "",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Mensajeros (Grupo musical)"
+        },
+        {
+          "field": "650",
+          "term": "Grupos musicales"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 4,
+      "images": [
+        {
+          "id": "FO048629_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048629_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048629_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO048629_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO049007",
+      "sys": "001533701",
+      "title": "Montiel, Alberto. Músico, visita Crónica, 14/12/1972 .",
+      "originalNumber": "A8946",
+      "date": "19721214",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Montiel, Alberto"
+        },
+        {
+          "field": "650",
+          "term": "Músicos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 3,
+      "images": [
+        {
+          "id": "FO049007_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO049007_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO049007_002",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO049730",
+      "sys": "001564226",
+      "title": "Nitti, Teodoro. Referí fútbol .",
+      "originalNumber": "A9418",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Nitti, Teodoro, 1935-2004"
+        },
+        {
+          "field": "650",
+          "term": "Árbitros de fútbol argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 5,
+      "images": [
+        {
+          "id": "FO049730_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO049730_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO049730_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO049730_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO050487",
+      "sys": "001541104",
+      "title": "Piero",
+      "originalNumber": "1970",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Piero, 1945-"
+        },
+        {
+          "field": "650",
+          "term": "Músicos argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 26,
+      "images": [
+        {
+          "id": "FO050487_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO050487_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO050487_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO050487_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO050620",
+      "sys": "001544784",
+      "title": "Raphael. Retratos y varios",
+      "originalNumber": "2104",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Raphael, 1943-"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes españoles"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 16,
+      "images": [
+        {
+          "id": "FO050620_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO050620_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO050620_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO050620_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO051084",
+      "sys": "001531575",
+      "title": "Walsh, María Elena, 1982",
+      "originalNumber": "2580",
+      "date": "19820000",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Walsh, María Elena, 1930-2011"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes argentinas"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 44,
+      "images": [
+        {
+          "id": "FO051084_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO051084_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO051084_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO051084_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO051346",
+      "sys": "001487967",
+      "title": "Luis Aguilé",
+      "originalNumber": "2840",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Aguilé, Luis, 1936-2009"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 6,
+      "images": [
+        {
+          "id": "FO051346_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO051346_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO051346_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO051346_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO055820",
+      "sys": "001545516",
+      "title": "Regina, Elis. Actriz, 14/05/1968 .",
+      "originalNumber": "A12103",
+      "date": "19680514",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Regina, Elis, 1945-1982"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes brasileñas"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 12,
+      "images": [
+        {
+          "id": "FO055820_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO055820_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO055820_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO055820_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO055932",
+      "sys": "001545065",
+      "title": "Rodolfi, Bruno. Ex futbolista .",
+      "originalNumber": "A12472",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Rodolfi, Bruno, 1915-1998"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 3,
+      "images": [
+        {
+          "id": "FO055932_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO055932_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO055932_002",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO056204",
+      "sys": "001544974",
+      "title": "Rosario Central. Club, jugadores concentrados, 23/12/1970",
+      "originalNumber": "A12746",
+      "date": "19701223",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Club Atlético Rosario Central"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 6,
+      "images": [
+        {
+          "id": "FO056204_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO056204_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO056204_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO056204_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057321",
+      "sys": "001552966",
+      "title": "Simonette. Cancionista, 09/1965.",
+      "originalNumber": "A13881",
+      "date": "19650900",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Simonette, 1947-"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes argentinas"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 4,
+      "images": [
+        {
+          "id": "FO057321_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057321_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057321_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057321_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057491",
+      "sys": "001550623",
+      "title": "Sosa, Osvaldo. Chiche, futbolista, 27/01/1972.",
+      "originalNumber": "A14051",
+      "date": "19720127",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Sosa, Osvaldo, 1948-"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 13,
+      "images": [
+        {
+          "id": "FO057491_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057491_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057491_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057491_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057820",
+      "sys": "001587300",
+      "title": "Teatro. Alvear, festival folklórico, 10/07/1969",
+      "originalNumber": "A14381",
+      "date": "19690710",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Teatro (Espectáculo)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 12,
+      "images": [
+        {
+          "id": "FO057820_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057820_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057820_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057820_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057828",
+      "sys": "001554621",
+      "title": "Teatro. Astral, festival, 1971/04/12.",
+      "originalNumber": "A14387",
+      "date": "4/121/19",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Teatro Astral"
+        },
+        {
+          "field": "650",
+          "term": "Teatro (Espectáculo)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 26,
+      "images": [
+        {
+          "id": "FO057828_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057828_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057828_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057828_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057864",
+      "sys": "001555864",
+      "title": "Teatro. IFT, obra Primero Que, 24/07/1970",
+      "originalNumber": "A14425",
+      "date": "19700724",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Teatro IFT"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 10,
+      "images": [
+        {
+          "id": "FO057864_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057864_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057864_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057864_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057870",
+      "sys": "001555875",
+      "title": "Teatro. Liceo, estrenan obra, 15/09/1970",
+      "originalNumber": "A14431",
+      "date": "19700915",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Teatro Liceo (Buenos Aires)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 11,
+      "images": [
+        {
+          "id": "FO057870_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057870_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057870_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057870_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO057895",
+      "sys": "001556204",
+      "title": "Teatro. Nacional, ensayo, 02/07/1971",
+      "originalNumber": "A14456",
+      "date": "19710702",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Teatro El Nacional (Buenos Aires)"
+        },
+        {
+          "field": "650",
+          "term": "Teatro (Espectáculo)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 15,
+      "images": [
+        {
+          "id": "FO057895_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057895_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057895_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO057895_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO058068",
+      "sys": "001559774",
+      "title": "Torres, Jaime. Folklorista.",
+      "originalNumber": "A14672",
+      "date": "",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Torres, Jaime, 1938-2018"
+        },
+        {
+          "field": "650",
+          "term": "Músicos argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 11,
+      "images": [
+        {
+          "id": "FO058068_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO058068_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO058068_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO058068_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO058586",
+      "sys": "001580799",
+      "title": "Doña Flor y sus dos maridos. Repro, Ana María Cores y Adrián Ghio, 18/05/1983",
+      "originalNumber": "033337",
+      "date": "19830518",
+      "subjects": [
+        {
+          "field": "630",
+          "term": "Doña Flor y sus dos maridos (Obra de teatro)"
+        },
+        {
+          "field": "650",
+          "term": "Teatro (Espectáculo)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 11,
+      "images": [
+        {
+          "id": "FO058586_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO058586_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO058586_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO058586_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO059896",
+      "sys": "001490077",
+      "title": "Cruzeiro. Club, Brasil, líneas y equipos, 1967",
+      "originalNumber": "A16334",
+      "date": "19670000",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Cruzeiro Esporte Clube"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas brasileños"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 4,
+      "images": [
+        {
+          "id": "FO059896_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO059896_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO059896_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO059896_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO060366",
+      "sys": "001558707",
+      "title": "Tigre. Club, líneas y equipos, 1968",
+      "originalNumber": "A16595",
+      "date": "19680000",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Club Atlético Tigre"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 6,
+      "images": [
+        {
+          "id": "FO060366_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO060366_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO060366_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO060366_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO061645",
+      "sys": "001545184",
+      "title": "Reyes magos. Día, en el Teatro Discepolo, 06/01/1974",
+      "originalNumber": "000066",
+      "date": "19740106",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Reyes Magos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 15,
+      "images": [
+        {
+          "id": "FO061645_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO061645_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO061645_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO061645_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO062899",
+      "sys": "001527946",
+      "title": "Almeira, Carlos. Cantor, 21/03/1974",
+      "originalNumber": "001058",
+      "date": "19740321",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Almeira, Carlos"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 11,
+      "images": [
+        {
+          "id": "FO062899_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO062899_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO062899_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO062899_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO063699",
+      "sys": "001587470",
+      "title": "Señotita Jiménez. Vestuarista del Cervantes, 13/12/1983",
+      "originalNumber": "032001",
+      "date": "19831213",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Shakespeare, William, 1564-1616. A Midsummer Night's Dream"
+        },
+        {
+          "field": "610",
+          "term": "Teatro Nacional Cervantes (Argentina)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 6,
+      "images": [
+        {
+          "id": "FO063699_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063699_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063699_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063699_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO063921",
+      "sys": "001487944",
+      "title": "Exposición tapas de Croniquita, 06/01/1983",
+      "originalNumber": "31907",
+      "date": "19830106",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Crónica (Firma comercial)"
+        },
+        {
+          "field": "650",
+          "term": "Empresas periodísticas"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 11,
+      "images": [
+        {
+          "id": "FO063921_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063921_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063921_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063921_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO063983",
+      "sys": "001587300",
+      "title": "Amadeus, obra teatral. Ensayo , 11/01/1983",
+      "originalNumber": "031969",
+      "date": "19830111",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Teatro (Espectáculo)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 8,
+      "images": [
+        {
+          "id": "FO063983_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063983_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063983_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO063983_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO064503",
+      "sys": "001586290",
+      "title": "Estreno: Las de Barranco. Teatro de la Rivera [i.e. Ribera], 25/02/1983 .",
+      "originalNumber": "032494",
+      "date": "19830225",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Laferrère, Gregorio de, 1867-1913. Las de Barranco"
+        },
+        {
+          "field": "610",
+          "term": "Teatro de la Ribera (Buenos Aires)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 10,
+      "images": [
+        {
+          "id": "FO064503_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO064503_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO064503_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO064503_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO065398",
+      "sys": "001580554",
+      "title": "Enzo Francescoli. Jugador de River visita en redacion [sic], 24/04/1983.",
+      "originalNumber": "033413",
+      "date": "19830424",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Francescoli, Enzo, 1961-"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas uruguayos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 19,
+      "images": [
+        {
+          "id": "FO065398_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO065398_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO065398_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO065398_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO065938",
+      "sys": "001587114",
+      "title": "Paulo Antonio J. María, director teatral y cine, 21/03/1983 .",
+      "originalNumber": "032755",
+      "date": "19830321",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Directores de teatro"
+        },
+        {
+          "field": "650",
+          "term": "Directores de cine"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 8,
+      "images": [
+        {
+          "id": "FO065938_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO065938_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO065938_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO065938_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO066759",
+      "sys": "001586161",
+      "title": "Peronistas. Congreso en el Teatro Comico (Luder Rittel), 05/09/1983 .",
+      "originalNumber": "34549",
+      "date": "19830905",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 169,
+      "images": [
+        {
+          "id": "FO066759_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO066759_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO066759_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO066759_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067048",
+      "sys": "001589051",
+      "title": "Exposicion de Sauro Benavente, 28/11/1983 .",
+      "originalNumber": "035479",
+      "date": "19831128",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 7,
+      "images": [
+        {
+          "id": "FO067048_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067048_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067048_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067048_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067211",
+      "sys": "001589831",
+      "title": "Marcelo San Juan Cantante, 30/11/1983 .",
+      "originalNumber": "035505",
+      "date": "19831130",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 16,
+      "images": [
+        {
+          "id": "FO067211_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067211_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067211_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067211_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067400",
+      "sys": "001590685",
+      "title": "Chicago - Temperley, 02/11/1974",
+      "originalNumber": "[FO067400]",
+      "date": "19741102",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Torneo Preparación (1974 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 28,
+      "images": [
+        {
+          "id": "FO067400_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067400_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067400_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067400_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067446",
+      "sys": "001590842",
+      "title": "Boca - Argentinos, 03/03/1974",
+      "originalNumber": "[FO067446]",
+      "date": "19740303",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Metropolitano de Fútbol (1974 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 33,
+      "images": [
+        {
+          "id": "FO067446_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067446_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067446_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067446_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067758",
+      "sys": "001591370",
+      "title": "Unión - River, 30/12/1978",
+      "originalNumber": "[FO067758]",
+      "date": "19781230",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Nacional de fútbol (1978 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 87,
+      "images": [
+        {
+          "id": "FO067758_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067758_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067758_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067758_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067809",
+      "sys": "001590839",
+      "title": "Práctica del seleccionado juvenil, 28/02/1974",
+      "originalNumber": "[FO067809]",
+      "date": "19740228",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Selección Argentina de Fútbol"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 10,
+      "images": [
+        {
+          "id": "FO067809_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067809_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067809_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067809_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO067993",
+      "sys": "001591341",
+      "title": "Los Andes - Armenio, 05/02/1978",
+      "originalNumber": "[FO067993]",
+      "date": "19780205",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato de Primera División B (1978 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 35,
+      "images": [
+        {
+          "id": "FO067993_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067993_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067993_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO067993_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO068310",
+      "sys": "001594733",
+      "title": "Boillon [i.e. Bouillon] Jo. Ex esposo Josefina Baker en Baires, 01/04/1974 .",
+      "originalNumber": "001241",
+      "date": "19740401",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Bouillon, Jo, 1908-1984"
+        },
+        {
+          "field": "650",
+          "term": "Músicos franceses"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 22,
+      "images": [
+        {
+          "id": "FO068310_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068310_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068310_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068310_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO068709",
+      "sys": "001559426",
+      "title": "Así jueves. Filmación del teleteatro La cruz de papel, 14/05/1986",
+      "originalNumber": "3547",
+      "date": "19860514",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Televisión"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 15,
+      "images": [
+        {
+          "id": "FO068709_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068709_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068709_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068709_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO068814",
+      "sys": "001597382",
+      "title": "Rossi, Rafael. Compositor y director, 10/04/1974 .",
+      "originalNumber": "001403",
+      "date": "19740410",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Rossi, Rafael, 1896-1982"
+        },
+        {
+          "field": "650",
+          "term": "Músicos argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 14,
+      "images": [
+        {
+          "id": "FO068814_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068814_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068814_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO068814_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069179",
+      "sys": "001587300",
+      "title": "Teatro. Obra La rueda cuadrada, 09/05/1974",
+      "originalNumber": "001763",
+      "date": "19740509",
+      "subjects": [
+        {
+          "field": "650",
+          "term": "Teatro (Espectáculo)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 9,
+      "images": [
+        {
+          "id": "FO069179_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069179_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069179_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069179_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069393",
+      "sys": "001575513",
+      "title": "Futbolista, visita, 14/01/1970",
+      "originalNumber": "[FO069393]",
+      "date": "19700114",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Crónica (Firma comercial)"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 4,
+      "images": [
+        {
+          "id": "FO069393_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069393_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069393_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069393_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069503",
+      "sys": "001591340",
+      "title": "Banfield - Ginmasia La Plata, 03/12/1977",
+      "originalNumber": "[FO069503]",
+      "date": "19771203",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Nacional de fútbol (1977 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 18,
+      "images": [
+        {
+          "id": "FO069503_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069503_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069503_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069503_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069669",
+      "sys": "001600305",
+      "title": "Los Andes - Dálmine, 29/10/1977",
+      "originalNumber": "[FO069669]",
+      "date": "19771029",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato de Primera División B (1977 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 36,
+      "images": [
+        {
+          "id": "FO069669_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069669_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069669_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069669_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069697",
+      "sys": "001600309",
+      "title": "Banfield vs. Huracán, 22/02/1977",
+      "originalNumber": "[FO069697]",
+      "date": "19770222",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Metropolitano de Fútbol (1977 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 61,
+      "images": [
+        {
+          "id": "FO069697_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069697_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069697_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069697_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069803",
+      "sys": "001600309",
+      "title": "Independiente - River, 24/07/1977",
+      "originalNumber": "[FO069803]",
+      "date": "19770724",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Metropolitano de Fútbol (1977 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 106,
+      "images": [
+        {
+          "id": "FO069803_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069803_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069803_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069803_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069827",
+      "sys": "001600309",
+      "title": "Central - San Lorenzo, 31/07/1977",
+      "originalNumber": "[FO069827]",
+      "date": "19770731",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Metropolitano de Fútbol (1977 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 32,
+      "images": [
+        {
+          "id": "FO069827_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069827_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069827_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069827_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO069829",
+      "sys": "001600309",
+      "title": "Huracán - A. Juniors, 31/07/1977",
+      "originalNumber": "[FO069829]",
+      "date": "19770731",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Metropolitano de Fútbol (1977 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 30,
+      "images": [
+        {
+          "id": "FO069829_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_007",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_008",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_016",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_018",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_019",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_022",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_028",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO069829_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO070436",
+      "sys": "001600881",
+      "title": "Kimberley - Quilmes, 23/09/1979",
+      "originalNumber": "[FO070436]",
+      "date": "19790923",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Nacional de fútbol (1979 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        }
+      ],
+      "digitalCount": 85,
+      "images": [
+        {
+          "id": "FO070436_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070436_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070436_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070436_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO070527",
+      "sys": "001600882",
+      "title": "Español - Dock Sud, 03/11/1979",
+      "originalNumber": "[FO070527]",
+      "date": "19791103",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato de Primera División C (1979 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        }
+      ],
+      "digitalCount": 78,
+      "images": [
+        {
+          "id": "FO070527_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070527_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070527_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070527_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO070536",
+      "sys": "001591370",
+      "title": "River - Independiente, 07/01/1979",
+      "originalNumber": "[FO070536]",
+      "date": "19790107",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Nacional de fútbol (1978 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 165,
+      "images": [
+        {
+          "id": "FO070536_115",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070536_116",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070536_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070536_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070536_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070536_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO070579",
+      "sys": "001600883",
+      "title": "Tigre - A. de Quilmes, 07/07/1979",
+      "originalNumber": "[FO070579]",
+      "date": "19790707",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato de Primera División B (1979 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 75,
+      "images": [
+        {
+          "id": "FO070579_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070579_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070579_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070579_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO070645",
+      "sys": "001600885",
+      "title": "Argentina. Fútbol, selección, partida a Brasil, 31/07/1979",
+      "originalNumber": "[FO070645]",
+      "date": "19790731",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Selección Argentina de Fútbol"
+        },
+        {
+          "field": "611",
+          "term": "Copa América (1979)"
+        },
+        {
+          "field": "611",
+          "term": "Campeonato Mundial de Fútbol Sub-20 (1979 : Japón)"
+        },
+        {
+          "field": "611",
+          "term": "Campeonato Sudamericano Juvenil (IX : 1979 : Uruguay)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 33,
+      "images": [
+        {
+          "id": "FO070645_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070645_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070645_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO070645_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO072279",
+      "sys": "001610721",
+      "title": "Fútbol, Atlanta - Chcarita, partido B, 03/05/1980",
+      "originalNumber": "[FO072279]",
+      "date": "19800503",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato de Primera División B (1980 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 22,
+      "images": [
+        {
+          "id": "FO072279_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO072279_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO072279_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO072279_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO072739",
+      "sys": "001616055",
+      "title": "Color-Noticias. Museo de Ciencias Naturales, detalles, conjunto y dirección, 04/04/1986",
+      "originalNumber": "3678",
+      "date": "19860404",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 8,
+      "images": [
+        {
+          "id": "FO072739_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO072739_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO072739_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO072739_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO073880",
+      "sys": "001630687",
+      "title": "Color Flash Antonio Gasalla, Ana Maria Picchio Teatro Maipo, 09/07/1987 .",
+      "originalNumber": "4886",
+      "date": "19870709",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 8,
+      "images": [
+        {
+          "id": "FO073880_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO073880_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO073880_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO073880_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO074039",
+      "sys": "001626978",
+      "title": "Seguidores de gansos rosas [sic], 08/12/1992",
+      "originalNumber": "075879",
+      "date": "19921208",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Guns and Roses (Grupo musical)"
+        },
+        {
+          "field": "650",
+          "term": "Grupos musicales"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 17,
+      "images": [
+        {
+          "id": "FO074039_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074039_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074039_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074039_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO074063",
+      "sys": "001628581",
+      "title": "Bon Jovi, 05/11/1995.",
+      "originalNumber": "090854",
+      "date": "19951105",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Bon Jovi (Grupo musical)"
+        },
+        {
+          "field": "650",
+          "term": "Grupos musicales"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 21,
+      "images": [
+        {
+          "id": "FO074063_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074063_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074063_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074063_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO074438",
+      "sys": "001628142",
+      "title": "Español - Tenperley [i.e. Temperley]. Pub por Estadio, 23/02/1982",
+      "originalNumber": "[FO074438]",
+      "date": "19820223",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato de Primera División B (1982 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 6,
+      "images": [
+        {
+          "id": "FO074438_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074438_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074438_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO074438_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO075178",
+      "sys": "001623286",
+      "title": "Celeste Carballo, Charly García. En Ezeiza, parten a Chile, 25/02/1986",
+      "originalNumber": "045251",
+      "date": "19860225",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Carballo, Celeste, 1956-"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes argentinas"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 29,
+      "images": [
+        {
+          "id": "FO075178_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075178_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075178_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075178_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO075227",
+      "sys": "001631985",
+      "title": "Soda Stereo, 30/10/1996",
+      "originalNumber": "095930",
+      "date": "19961030",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Soda Stéreo (Grupo musical)"
+        },
+        {
+          "field": "650",
+          "term": "Grupos musicales"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 37,
+      "images": [
+        {
+          "id": "FO075227_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075227_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075227_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075227_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO075484",
+      "sys": "001637284",
+      "title": "Color Flash Horacio Ferrer Los Teatros, 09/03/1988 .",
+      "originalNumber": "5839",
+      "date": "19880309",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 20,
+      "images": [
+        {
+          "id": "FO075484_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075484_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075484_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075484_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO075925",
+      "sys": "001607083",
+      "title": "Chicago vs. C. Córdoba, 23/04/1994",
+      "originalNumber": "[FO075925]",
+      "date": "19940423",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Nacional B (1993/1994)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 84,
+      "images": [
+        {
+          "id": "FO075925_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075925_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075925_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO075925_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO076053",
+      "sys": "001637259",
+      "title": "Tigre vs. Cambaceres, 27/08/1994",
+      "originalNumber": "[FO076053]",
+      "date": "19940827",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Torneo Apertura, Primera B Metropolitana (1994 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        }
+      ],
+      "digitalCount": 37,
+      "images": [
+        {
+          "id": "FO076053_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076053_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076053_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076053_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO076233",
+      "sys": "001637656",
+      "title": "Fotos de llegada de Madonna, tv, 29/10/1993",
+      "originalNumber": "080555",
+      "date": "19931029",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Madonna, 1958-"
+        },
+        {
+          "field": "630",
+          "term": "Evita (Película cinematográfica)"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes estadounidenses"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 26,
+      "images": [
+        {
+          "id": "FO076233_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076233_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076233_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076233_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO076924",
+      "sys": "001637656",
+      "title": "Madonna. Filmación Evita en Cañuelas, 09/02/1996",
+      "originalNumber": "092122",
+      "date": "19960209",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Madonna, 1958-"
+        },
+        {
+          "field": "630",
+          "term": "Evita (Película cinematográfica)"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes estadounidenses"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 79,
+      "images": [
+        {
+          "id": "FO076924_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076924_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076924_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO076924_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO077301",
+      "sys": "001580548",
+      "title": "Maradona, Diego. Futbolista, en cancha de Argentino Jniors [sic], 22/07/1978",
+      "originalNumber": "015277",
+      "date": "19780722",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Maradona, Diego Armando, 1960-2020"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 5,
+      "images": [
+        {
+          "id": "FO077301_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077301_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077301_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077301_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO077308",
+      "sys": "001580548",
+      "title": "Maradona, Diego. Futbolista, con chicos, 11/12/1978",
+      "originalNumber": "016315",
+      "date": "19781211",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Maradona, Diego Armando, 1960-2020"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 13,
+      "images": [
+        {
+          "id": "FO077308_003",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077308_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077308_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077308_002",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO077468",
+      "sys": "001645325",
+      "title": "Rosseto Cecilia- actriz actuando en teatro Estrellas con Gasalla, 28/08/1975 .",
+      "originalNumber": "6768",
+      "date": "19750828",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 2,
+      "images": [
+        {
+          "id": "FO077468_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077468_001",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO077509",
+      "sys": "001645557",
+      "title": "Rosseto Cecilia bailarina con A.Gasalla en teatro Estrellas, 01/09/1975 .",
+      "originalNumber": "6810",
+      "date": "19750901",
+      "subjects": [
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        }
+      ],
+      "digitalCount": 2,
+      "images": [
+        {
+          "id": "FO077509_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077509_001",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO077667",
+      "sys": "001626563",
+      "title": "Independiente - San Lorenzo. Estadio, 30/04/1981",
+      "originalNumber": "[FO077667]",
+      "date": "19810430",
+      "subjects": [
+        {
+          "field": "611",
+          "term": "Campeonato Metropolitano de Fútbol (1981 : Argentina)"
+        },
+        {
+          "field": "650",
+          "term": "Fútbol"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 81,
+      "images": [
+        {
+          "id": "FO077667_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077667_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077667_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO077667_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO078286",
+      "sys": "001533769",
+      "title": "Mores, Claudia. Con Mariano, 1983",
+      "originalNumber": "1752",
+      "date": "19830000",
+      "subjects": [
+        {
+          "field": "600",
+          "term": "Mores, Claudia, 1950-"
+        },
+        {
+          "field": "650",
+          "term": "Cantantes argentinas"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 26,
+      "images": [
+        {
+          "id": "FO078286_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078286_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078286_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078286_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO078426",
+      "sys": "001532113",
+      "title": "Independiente. Club, concentración, jugadores, 01/12/1974",
+      "originalNumber": "004286",
+      "date": "19741201",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Club Atlético Independiente"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 5,
+      "images": [
+        {
+          "id": "FO078426_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078426_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078426_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078426_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    },
+    {
+      "id": "FO078440",
+      "sys": "001532113",
+      "title": "Independiente. Club, jugadores en Ezeiza, 28/06/1975",
+      "originalNumber": "006069",
+      "date": "19750628",
+      "subjects": [
+        {
+          "field": "610",
+          "term": "Club Atlético Independiente"
+        },
+        {
+          "field": "650",
+          "term": "Futbolistas argentinos"
+        },
+        {
+          "field": "655",
+          "term": "Negativos flexibles"
+        },
+        {
+          "field": "655",
+          "term": "Fotografía en color"
+        }
+      ],
+      "digitalCount": 22,
+      "images": [
+        {
+          "id": "FO078440_000",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078440_001",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078440_002",
+          "src": null,
+          "thumb": null
+        },
+        {
+          "id": "FO078440_003",
+          "src": null,
+          "thumb": null
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "public-1",
+      "title": "El Diego",
+      "description": "Selección pública conservada de la base original.",
+      "origin": "public",
+      "imageIds": [
+        "FO077308_003",
+        "FO069829_001",
+        "FO069829_008",
+        "FO069829_016",
+        "FO069829_018",
+        "FO069829_019",
+        "FO069829_022",
+        "FO069829_007",
+        "FO069829_028",
+        "FO070536_115",
+        "FO070536_116"
+      ],
+      "recordIds": [
+        "FO077308",
+        "FO069829",
+        "FO070536"
+      ]
+    },
+    {
+      "id": "futbol",
+      "title": "Fútbol argentino",
+      "description": "Recorrido temático creado para esta demo con registros reales.",
+      "origin": "demo",
+      "recordIds": [
+        "FO069803",
+        "FO077301",
+        "FO078426",
+        "FO055932",
+        "FO070579",
+        "FO060366",
+        "FO069697",
+        "FO067809",
+        "FO044526",
+        "FO069827",
+        "FO049730",
+        "FO070645",
+        "FO057491",
+        "FO067446",
+        "FO065398",
+        "FO067758",
+        "FO070527",
+        "FO072279",
+        "FO043519",
+        "FO056204",
+        "FO044899",
+        "FO075925",
+        "FO067400",
+        "FO069503",
+        "FO067993",
+        "FO070436",
+        "FO044248",
+        "FO059896",
+        "FO077667",
+        "FO040544",
+        "FO078440",
+        "FO069669",
+        "FO074438",
+        "FO069393",
+        "FO048529",
+        "FO076053"
+      ],
+      "imageIds": []
+    },
+    {
+      "id": "musica",
+      "title": "Música y escenarios",
+      "description": "Recorrido temático creado para esta demo con registros reales.",
+      "origin": "demo",
+      "recordIds": [
+        "FO049007",
+        "FO051084",
+        "FO051346",
+        "FO043794",
+        "FO068310",
+        "FO074063",
+        "FO048629",
+        "FO055820",
+        "FO068814",
+        "FO075227",
+        "FO041080",
+        "FO076924",
+        "FO048038",
+        "FO067211",
+        "FO074039",
+        "FO058068",
+        "FO050487",
+        "FO075178",
+        "FO057321",
+        "FO040092",
+        "FO062899",
+        "FO076233",
+        "FO050620",
+        "FO078286"
+      ],
+      "imageIds": []
+    },
+    {
+      "id": "ciudad",
+      "title": "Teatro, arte y ciudad",
+      "description": "Recorrido temático creado para esta demo con registros reales.",
+      "origin": "demo",
+      "recordIds": [
+        "FO045406",
+        "FO075484",
+        "FO044820",
+        "FO057828",
+        "FO063699",
+        "FO064503",
+        "FO063983",
+        "FO057895",
+        "FO063921",
+        "FO077509",
+        "FO065938",
+        "FO077468",
+        "FO058586",
+        "FO061645",
+        "FO067048",
+        "FO057870",
+        "FO068709",
+        "FO048413",
+        "FO069179",
+        "FO073880",
+        "FO057820",
+        "FO057864",
+        "FO066759",
+        "FO072739"
+      ],
+      "imageIds": []
+    }
+  ]
+}
