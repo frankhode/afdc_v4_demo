@@ -13,8 +13,8 @@ class ImageImport(unittest.TestCase):
    proc=subprocess.run([sys.executable,str(ROOT/'scripts/import_images.py'),str(root/'input.zip'),'--catalog',str(cat),'--confirmed-public'],capture_output=True,text=True)
    self.assertEqual(proc.returncode,0,proc.stderr)
    result=json.loads(cat.read_text());self.assertEqual(result['meta']['imagesIncluded'],1)
-   out=root/'docs/assets/images/FO000001_001.jpg'
+   out=root/'docs/assets/images/FO000001_001.webp'
    with Image.open(out) as image:
     self.assertLessEqual(max(image.size),1600);self.assertEqual(len(image.getexif()),0)
-   self.assertFalse((root/'private').exists());self.assertFalse((out.parent/'FO999999_001.jpg').exists())
+   self.assertFalse((root/'private').exists());self.assertFalse((out.parent/'FO999999_001.webp').exists())
 if __name__=='__main__':unittest.main()
