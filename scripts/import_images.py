@@ -20,6 +20,13 @@ def inputs(source):
                 if i.file_size>80_000_000: raise ValueError('Image too large: '+Path(i.filename).name)
                 yield i.filename,lambda i=i:z.read(i)
 
+def save_copy(image, path, quality, method):
+    buffer=io.BytesIO()
+    image.save(buffer,format='WEBP',quality=quality,method=method)
+    temp=path.with_suffix(path.suffix+'.tmp')
+    temp.write_bytes(buffer.getvalue())
+    temp.replace(path)
+
 def main():
     p=argparse.ArgumentParser();p.add_argument('source',type=Path);p.add_argument('--catalog',type=Path,default=Path('docs/data/catalog.json'));p.add_argument('--confirmed-public',action='store_true',help='The supplied images have been cleared for public demo use.');a=p.parse_args()
     if not a.confirmed_public:p.error('Use --confirmed-public only with images cleared for the public demo.')
@@ -31,12 +38,12 @@ def main():
         if k in seen: raise ValueError('Duplicate image ID in input: '+k)
         seen.add(k)
         with Image.open(io.BytesIO(read())) as original:
-            im=ImageOps.exif_transpose(original).convert('RGB');im.thumbnail((1600,1600))
+            im=ImageOps.exif_transpose(original).convert('RGB');im.thumbnail((1600,1600),Image.Resampling.LANCZOS)
             # New pixel-only object drops EXIF, GPS, comments, ICC and other source metadata.
             clean=Image.new('RGB',im.size);clean.paste(im)
-            clean.save(out/(k+'.jpg'),quality=84,optimize=True)
-            clean.thumbnail((320,320));clean.save(out/(k+'.thumb.jpg'),quality=78,optimize=True)
-        selected[k]['src']='assets/images/'+k+'.jpg';selected[k]['thumb']='assets/images/'+k+'.thumb.jpg';count+=1
+            save_copy(clean,out/(k+'.webp'),72,5)
+            clean.thumbnail((320,320),Image.Resampling.LANCZOS);save_copy(clean,out/(k+'.thumb.webp'),70,4)
+        selected[k]['src']='assets/images/'+k+'.webp';selected[k]['thumb']='assets/images/'+k+'.thumb.webp';count+=1
     d['meta']['imagesIncluded']=sum(bool(i['src']) for i in selected.values());a.catalog.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps({'imported':count,'notSelected':ignored,'totalAvailable':d['meta']['imagesIncluded'],'pending':sum(not i['src'] for i in selected.values())}))
 if __name__=='__main__':main()
