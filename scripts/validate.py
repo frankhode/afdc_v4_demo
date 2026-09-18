@@ -16,7 +16,7 @@ for r in d['records']:
   assert set(im)=={'id','src','thumb'} and im['id'].startswith(r['id']+'_')
   assert re.fullmatch(r'FO\d{6}_\d+',im['id']) and im['id'] not in images;images.add(im['id'])
   for k in ('src','thumb'):
-   if im[k]: assert re.fullmatch(r'assets/images/[A-Za-z0-9_.-]+',im[k]) and (DOCS/im[k]).is_file()
+   if im[k]: assert re.fullmatch(r'assets/images/[A-Za-z0-9_.-]+',im[k]) and (DOCS/im[k]).is_file() and (DOCS/im[k]).stat().st_size>0
   assert bool(im['src'])==bool(im['thumb'])
   total+=bool(im['src'])
 for c in d['collections']:
