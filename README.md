@@ -2,7 +2,7 @@
 
 Implementación independiente de la consulta pública de `frankhode/afdc_v4`, preparada para el repositorio `frankhode/afdc_v4_demo` y GitHub Pages. El repositorio original no se modifica.
 
-**Estado:** aplicación y muestra de datos preparadas; fotografías pendientes de recibir. No se simulan fotografías ni se consultan archivos del servidor original. Los 346 fotogramas seleccionados se muestran como pendientes hasta incorporar copias autorizadas.
+**Estado:** aplicación con 346 imágenes reales y 346 miniaturas incorporadas, correspondientes a 87 sobres. Las copias se generan desde el ZIP aportado por el titular y se sirven desde este repositorio, sin consultar el servidor original.
 
 ## Ejecutar
 
@@ -17,7 +17,7 @@ Abrir `http://localhost:8000`. También se puede copiar `docs/` a una carpeta de
 ## Contenido
 
 - 87 sobres reales del respaldo del 31/07/2026, unidos por barcode y SYS.
-- 346 referencias reales a fotogramas, sin rutas de origen.
+- 346 imágenes reales en WebP, con copias de consulta de hasta 1600 px y miniaturas de 320 px, sin rutas de origen.
 - «El Diego»: 11 fotografías de 3 sobres, conservando el orden y la pertenencia de la única colección marcada pública en el SQL.
 - Tres recorridos nuevos: Fútbol argentino (36 sobres), Música y escenarios (24), Teatro, arte y ciudad (24). No son colecciones privadas del sistema.
 - Algunos sobres participan en más de una colección. Los recuentos representan la muestra, no el total del archivo.
@@ -53,7 +53,7 @@ python scripts/import_images.py /ruta/seleccion.zip --confirmed-public
 python scripts/validate.py
 ```
 
-El importador admite ZIP o carpeta, selecciona únicamente los IDs del manifiesto, genera JPEG de hasta 1600 px y miniaturas de 320 px, aplica la orientación y elimina metadatos EXIF/GPS/comentarios. Los archivos que no pertenecen a la muestra se ignoran. No extrae rutas del ZIP. Detecta IDs duplicados. El parámetro `--confirmed-public` registra una decisión humana: no comprueba derechos ni el contenido visual.
+El importador admite ZIP o carpeta, selecciona únicamente los IDs del manifiesto, genera WebP de hasta 1600 px y miniaturas de 320 px, aplica la orientación y elimina metadatos EXIF/GPS/comentarios. Los archivos que no pertenecen a la muestra se ignoran. No extrae rutas del ZIP. Detecta IDs duplicados. El parámetro `--confirmed-public` registra una decisión humana: no comprueba derechos ni el contenido visual.
 
 Para incluir imágenes de otros sobres hay que adaptar primero la selección; no se inventan vínculos por semejanza visual o de título.
 
@@ -69,12 +69,12 @@ Este comando **recrea el catálogo y deja las imágenes pendientes**; volver a i
 
 ## Publicar en GitHub Pages
 
-1. Crear el repositorio público **afdc_v4_demo** en la cuenta `frankhode`.
+1. El repositorio público **afdc_v4_demo** ya existe en la cuenta `frankhode`.
 2. Subir únicamente el contenido de esta carpeta; **nunca el respaldo SQL ni la carpeta de fotografías originales**.
 3. En **Settings → Pages → Build and deployment**, elegir **Deploy from a branch**, rama **main** y carpeta **/docs**; guardar.
 4. Abrir la URL que indique GitHub al terminar el despliegue.
 
-La publicación usa únicamente `docs/`; scripts y tests no se sirven como parte del sitio. Las rutas relativas y la navegación con `#/` funcionan bajo el prefijo del repositorio, incluidos enlaces directos, recargas y el botón Atrás. `.nojekyll` evita procesar la aplicación con Jekyll.
+La aplicación está contenida en `docs/`. Si Pages publica desde la raíz del repositorio, el `index.html` de la raíz redirige a `docs/`; para servir únicamente la aplicación, elegir `/docs` como carpeta de publicación. Las rutas relativas y la navegación con `#/` funcionan bajo el prefijo del repositorio, incluidos enlaces directos, recargas y el botón Atrás. `.nojekyll` evita procesar la aplicación con Jekyll.
 
 Referencia: [Configuring a publishing source for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
@@ -86,7 +86,7 @@ python scripts/validate.py
 python -m unittest discover -s tests -p 'test_*.py'
 ```
 
-La comprobación visual en navegador quedó pendiente: el navegador del entorno bloqueó el acceso a las vistas locales. El visor no se ha validado aún con las fotografías reales, que están pendientes del ZIP.
+Se verificaron en la URL pública las búsquedas simple y avanzada, los enlaces desde los índices, las colecciones, los favoritos y los controles de zoom y giro del visor. También se comprobaron la decodificación de las 692 copias WebP, la correspondencia de los 346 identificadores y la ausencia de EXIF.
 
 No se necesitan dependencias npm. Las 12 pruebas automáticas verifican semántica booleana, acentos, índices, referencias, imágenes disponibles, CSV y extracción. `validate.py` valida el esquema permitido y exige que cada imagen declarada exista.
 
